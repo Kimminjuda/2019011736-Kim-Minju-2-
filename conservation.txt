@@ -1,0 +1,34 @@
+#Conservation of Nature
+
+#Earth's natural resouces include air, minerals, plants, soil, water, and wildlife.
+#Conservation is the care and protection ot these resources so that they can persist for future generations.
+#It includes maintaining diversity of species, genes, and ecosystems, as well as functions of the environment, such as nutrient cycling
+
+#Conservation is similar to preservation, but while both relate to the protection of nature, they strive to accomplish this task in different ways.
+#Conservation seeks the sustainable use tof nature by hamans, for activities such as hunting, logging, or mining, while preservation means protecting nature from human use.
+
+#This difference is illustrated by how the United States manages its public lands.
+#The goal of National Parks, for instance, is preservation with an emphasis on causing minimal change to the landscape or environment, meanwhile National Forests can be used for cattle grazing, lumber, hunting, and recreation.
+
+#Continued human population growth has led to unsustaionable rates of consumption of our natural resources, resulting in a loss of Earth's biodiversity.
+#The main factors driving biodiversity loss include habitat destruction, climate change, invasive species, overexploitation, and pollution.
+
+#Declining biodiversity is closely intertwined with species extinction.
+#While extinstion is a normal process of nature, the rate at which it is happening today is not.
+#Scientists estimate that current extinction rates are about a thousand times higher now than would be expected based on the fossil record, and that we may be experiencing a mass extintion event, which is when 75 percent or more species are lost at a time.
+
+#The extinction of the [assenger pigeon is a famous example of an extinction caused by human activity.
+#It was once the most abundant land bird in North America, with a population of approximately three ot five billion when Europiana arrived.
+#Despite its vast numbers, this pigeon became extinct in the wild by 1900s because of overhunting.
+#The last individual bird, named Martha, died in captivity in 1941 at Cinconnati Zoo
+
+#Conservation pratices and policies --ranging from the removal of invasive species, to setting aside protected land for wildlife and plants, to establishing the U.S.
+#Endangered Species Act(ESA)-have been put in place to combat these extinction pressure. Currently, more than 26,500 species are estimated to be at risk of extinction, though the exact number is difficult ot calculate.
+
+#One of these species is a small porpoise calles the vaquita.
+#With fewer than thirty individauls remaing in the wild, the vaquita is the world's most endangerd marine mammal.
+#They only live in the northern part of the Gulf of Califonia and their biggest threat is an illegal fishery for the totoaba fish.
+#The vaquita gets caught and tangled in the nets used to catch the totoaba, which are themselves endangered.
+
+#Despite conservation efforts, the vaquita will likely go extinct in the next few years with so few numbers and continued threats.
+#Other animals, including the grizzly bear, bald eagle, and Califonia condor, have recovered from near extinction thanks to conservation action under the ESA. 
